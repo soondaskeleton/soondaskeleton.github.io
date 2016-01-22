@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: soondaskeleton
+title: SoonDaSkeleton
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-We're big boogers forgetting simplest things... which can be important some day.
-baseurl: "" # the subpath of your site, e.g. /blog
+  We big boogers forgetting simplest things... which can be important some day.
+baseurl: # the subpath of your site, e.g. /blog
 url: "http://soondaskeleton.github.io" # the base hostname & protocol for your site
 twitter_username: 
-github_username:  soondaskeleton
+github_username: soondaskeleton
 
 # Build settings
 markdown: kramdown
